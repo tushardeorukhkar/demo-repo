@@ -1,2 +1,2 @@
-# DEmo
+# Demo
 Some file
